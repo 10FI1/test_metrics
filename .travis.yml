@@ -11,6 +11,7 @@ install:
 script:
 
   - python helloworld.py
+  - coverage run helloworld.py
     
     
  after_success:
