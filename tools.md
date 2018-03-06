@@ -18,5 +18,5 @@ coverage report
 - metrictools on commandline
 - Travis und Coveralls 
 - unittesting with coverage
-- biger project examples 
+- bigger project examples 
 
