@@ -12,3 +12,11 @@ radon raw [file or path]
 commandline:
 coverage run [file]
 coverage report 
+
+
+## Exercise:
+- metrictools on commandline
+- Travis und Coveralls 
+- unittesting with coverage
+- biger project examples 
+
