@@ -18,5 +18,7 @@ coverage report
 - metrictools on commandline
 - Travis und Coveralls 
 - unittesting with coverage
-- bigger project examples 
+- bigger project examples (django) 
+-> may need to change encoding with environment variable radonfilesencoding
+-> set RADONFILESENCODING=UTF-8
 
