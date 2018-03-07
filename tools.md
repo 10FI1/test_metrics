@@ -22,3 +22,4 @@ coverage report
 -> may need to change encoding with environment variable radonfilesencoding
 -> set RADONFILESENCODING=UTF-8
 
+ConEmu
