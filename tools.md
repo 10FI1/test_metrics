@@ -22,4 +22,4 @@ coverage report
 -> may need to change encoding with environment variable radonfilesencoding
 -> set RADONFILESENCODING=UTF-8
 
-ConEmu
+Radon test coverage: [https://coveralls.io/github/rubik/radon]
