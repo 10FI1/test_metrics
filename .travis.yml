@@ -22,5 +22,5 @@ script:
   before_install:
   
   - pip install coverage
-  - pip intall coveralls
+  - pip install coveralls
   
