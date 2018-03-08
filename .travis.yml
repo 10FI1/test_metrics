@@ -7,5 +7,6 @@ install:
 script:
   - python verySimpleMath.py
   - coverage run unittest_verySimpleMath.py
+  - coverage report
 after_success:
   - coveralls
