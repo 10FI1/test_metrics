@@ -18,3 +18,7 @@ script:
  after_success:
  
   - coveralls
+  
+  before_install:
+  
+  - pip install coverage
