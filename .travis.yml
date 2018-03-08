@@ -11,7 +11,8 @@ install:
 script:
 
   - python helloworld.py
-  - coverage run helloworld.py
+  - python basic.py
+  - coverage run basic_ut.py
     
     
  after_success:
