@@ -20,7 +20,7 @@ script:
  
   - coveralls
   
-  before_install:
+ before_install:
   
   - pip install coverage
   - pip install coveralls
