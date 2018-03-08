@@ -13,6 +13,7 @@ script:
   - python helloworld.py
   - python basic.py
   - coverage run basic_ut.py
+  - coverage report
     
     
  after_success:
